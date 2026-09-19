@@ -1,4 +1,4 @@
 # Pioner17flexi
-- roblxo fps skill enhancer. this is scoped for pro master mega closeting. thats why it isnt so feature rich
+- roblxo fps skill enhancer. good for closeting which is why it isnt so feature rich
 
-- its built on thenwefuckin base so credits to it ye https://github.com/jatosm/thenwefuckin-base
+- its built on jatos base so credits to it ye https://github.com/jatosm/thenwefuckin-base
